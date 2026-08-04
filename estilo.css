@@ -35,7 +35,9 @@ main{
 color: rgb(156, 86, 150);
 }
 
-h1{color: rgb(255, 142, 157);}
+h1{color: rgb(255, 142, 157);
+font-size: 24px;
+}
 
 footer{
     background-color: rgb(255, 183, 243);
