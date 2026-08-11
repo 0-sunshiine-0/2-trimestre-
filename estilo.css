@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.cabeçalho{
+.cabecalho{
     padding: 15px 25px;
     display: flex;
     justify-content: space-between;
@@ -11,12 +11,12 @@
     background-color: rgb(206, 68, 199);
 }
 
-.cartão {
+.cartao {
     width: 260px;
     height: 200px;
 }
 
-.cartão-imagem{
+.cartao-imagem{
     width: 100%;
 }
 
@@ -31,7 +31,7 @@ main{
     flex: 1;
 }
 
-.cabeçalho-link{
+.cabecalho-link{
 color: rgb(156, 86, 150);
 }
 
